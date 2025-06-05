@@ -4,11 +4,11 @@ A lightweight, fast, and efficient implementation of the DistilBERT model for na
 
 ## Features
 
--Trained on emotion-labeled dataset
--Predicts emotion of input sentence
--Supports emotions like joy, sadness, anger, fear, etc.
--Outputs a single dominant emotion per input
--Suitable for emotion classification tasks in NLP
+- Trained on emotion-labeled dataset
+- Predicts emotion of input sentence
+- Supports emotions like joy, sadness, anger, fear, etc.
+- Outputs a single dominant emotion per input
+- Suitable for emotion classification tasks in NLP
 ## Installation
 
 ```bash
