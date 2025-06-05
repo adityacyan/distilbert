@@ -1,13 +1,14 @@
-# DistilBERT
+# Emotion recognition via DistilBERT
 
 A lightweight, fast, and efficient implementation of the DistilBERT model for natural language processing tasks.
 
 ## Features
 
-- Distilled version of BERT for faster inference and smaller model size
-- Supports various NLP tasks (classification, question answering, etc.)
-- Easy integration and fine-tuning
-
+-Trained on emotion-labeled dataset
+-Predicts emotion of input sentence
+-Supports emotions like joy, sadness, anger, fear, etc.
+-Outputs a single dominant emotion per input
+-Suitable for emotion classification tasks in NLP
 ## Installation
 
 ```bash
@@ -32,3 +33,6 @@ python app.py
 ## License
 
 This project is licensed under the MIT License.
+
+
+Made by adityacyan
